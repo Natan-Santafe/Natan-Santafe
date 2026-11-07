@@ -6,6 +6,8 @@ Sou formando em **Engenharia de Software** e trabalho como suporte técnico em u
 
 🎯 Busco minha primeira oportunidade como **desenvolvedor Front-end / Full-stack júnior**.
 
+🤖 Uso o **Claude** no dia a dia: no desenvolvimento, para acelerar e revisar código, e no suporte técnico, para criar scripts de automação.
+
 > *Front-end developer and Software Engineering student. Currently working in IT support for industrial automation. Open to junior developer opportunities.*
 
 ---
@@ -21,6 +23,7 @@ Sou formando em **Engenharia de Software** e trabalho como suporte técnico em u
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 
 ---
 
